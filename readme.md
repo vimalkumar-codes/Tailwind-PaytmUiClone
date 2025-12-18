@@ -6,7 +6,7 @@
 
 ![HTML & CSS](https://img.shields.io/badge/TAILWIND-CSS-orange)
 
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--Patm--UI-lightgrey)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--Paytm--UI-lightgrey)
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
