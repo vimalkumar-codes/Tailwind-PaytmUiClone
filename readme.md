@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Paytm UI Clone [Live Link](https://paytm-web-ui.netlify.app/)
+## Paytm UI Clone [Live Link](https://16-notm.vercel.app/)
 
 - Skills Gained in this project
 
